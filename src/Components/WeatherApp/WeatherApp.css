@@ -10,7 +10,7 @@
 .top-bar {
     display: flex;
     justify-content: center;
-    gap: 14px;
+    gap: 15px;
     padding-top: 60px;
 }
 
